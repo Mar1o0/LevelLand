@@ -93,35 +93,35 @@ header {
     background-image: url('../image/svg/marker.svg');
 }
 
-.header-top__item #phone:before {
+.header-top__item #phone-num:before {
     background-image: url('../image/svg/phone.svg');
 }
 
-.header-top__item #mail:before {
+.header-top__item #mail-header:before {
     background-image: url('../image/svg/mail.svg');
 }
 
-.header-top__item #whatsapp:before {
+.header-top__item #whatsapp-header:before {
     background-image: url('../image/svg/whatsapp-mini.svg');
 }
 
-.header-top__item a#whatsapp,
-.header-top__item a#whatsapp:link,
-.header-top__item a#whatsapp:visited {
+.header-top__item a#whatsapp-header,
+.header-top__item a#whatsapp-header:link,
+.header-top__item a#whatsapp-header:visited {
     color: #51C85D;
     font-weight: 700;
     font-size: 15px;
 }
 
-.header-top__item a#whatsapp:hover {
+.header-top__item a#whatsapp-header:hover {
     color: #369640;
     font-weight: 700;
     font-size: 15px;
 }
 
-.header-top__item #phone,
-.header-top__item #mail,
-.header-top__item #whatsapp {
+.header-top__item #phone-num,
+.header-top__item #mail-header,
+.header-top__item #whatsapp-header {
     display: block;
 }
 
